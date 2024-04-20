@@ -1,0 +1,14 @@
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\bin\Debug\net8.0\interfocusConsole.exe
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\bin\Debug\net8.0\interfocusConsole.deps.json
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\bin\Debug\net8.0\interfocusConsole.runtimeconfig.json
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\bin\Debug\net8.0\interfocusConsole.dll
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\bin\Debug\net8.0\interfocusConsole.pdb
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\interfocusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\interfocusConsole.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\interfocusConsole.AssemblyInfo.cs
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\interfocusConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\interfocusConsole.dll
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\refint\interfocusConsole.dll
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\interfocusConsole.pdb
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\interfocusConsole.genruntimeconfig.cache
+C:\Users\Aula\source\repos\interfocusConsole\interfocusConsole\obj\Debug\net8.0\ref\interfocusConsole.dll
