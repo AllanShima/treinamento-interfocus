@@ -1,4 +1,7 @@
-﻿namespace Interfocus
+using System.Collections.Generic;
+using System;
+
+namespace Interfocus
 {
     public class Metodos
     {
@@ -14,7 +17,8 @@
             }
         }
 
-        public void PrintLista(List<string> lista) {
+        public void PrintLista(List<string> lista)
+        {
             int a = 0;
 
             foreach (var item in lista)
